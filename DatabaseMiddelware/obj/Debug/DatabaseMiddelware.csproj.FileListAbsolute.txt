@@ -1,0 +1,4 @@
+C:\Users\islam\Documents\Visual Studio 2013\Projects\DatabaseMiddelware\DatabaseMiddelware\bin\Debug\DatabaseMiddelware.dll
+C:\Users\islam\Documents\Visual Studio 2013\Projects\DatabaseMiddelware\DatabaseMiddelware\bin\Debug\DatabaseMiddelware.pdb
+C:\Users\islam\Documents\Visual Studio 2013\Projects\DatabaseMiddelware\DatabaseMiddelware\obj\Debug\DatabaseMiddelware.dll
+C:\Users\islam\Documents\Visual Studio 2013\Projects\DatabaseMiddelware\DatabaseMiddelware\obj\Debug\DatabaseMiddelware.pdb
